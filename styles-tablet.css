@@ -1,0 +1,29 @@
+body {
+    background-color: #f5f5f5;
+}
+
+h1 {
+    font-size: 32px;
+    color: #007BFF;
+}
+
+h2 {
+    font-size: 24px;
+    color: #007BFF;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+article {
+    border: 1px solid #007BFF;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+nav ul li {
+    display: block;
+    margin: 10px 0;
+}

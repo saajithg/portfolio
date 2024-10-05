@@ -1,0 +1,26 @@
+body {
+    background-color: #f5f5f5;
+}
+
+h1 {
+    font-size: 24px;
+    color: #007BFF;
+}
+
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+.profile-photo {
+    max-width: 150px;
+}
+
+.intro-video {
+    max-width: 90%; 
+}
+
+nav ul li {
+    display: block;
+    margin: 10px 0;
+}
